@@ -1,4 +1,4 @@
-<h1style="
+<h1 style="
     COLOR: #0a67d5;
 ">GAME X-O VIẾT BẰNG SOCKET, MULTITHREAD....</h1>
 
