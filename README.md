@@ -1,4 +1,6 @@
-<h1 style: color = "blue">GAME X-O VIẾT BẰNG SOCKET, MULTITHREAD....</h1>
+<h1style="
+    COLOR: #0a67d5;
+">GAME X-O VIẾT BẰNG SOCKET, MULTITHREAD....</h1>
 
 nhập file sql.
 
