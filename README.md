@@ -8,3 +8,4 @@ sửa kết nối database ở file account/connect
 
 Chạy server/server.java đầu tiên sau đó chạy login hoặc signup ở folder account
 
+Mọi thắc mắc xin liên hệ facebook đc gắn link ở profile 
